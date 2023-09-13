@@ -1,4 +1,4 @@
-export class Version {
+export interface Version {
   vsntag: string;
   altvsntags: string[];
   mrgfile: string;

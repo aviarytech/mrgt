@@ -1,4 +1,4 @@
-export class Term {
+export interface Term {
   term: string;
   id: string;
   scope: string;

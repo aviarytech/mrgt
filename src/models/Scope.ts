@@ -1,6 +1,6 @@
-import { Curator } from './Curator';
+import { Curator } from "./Curator.js";
 
-export class Scope {
+export interface Scope {
   scopetag: string;
   scopedir: string;
   curatedir: string;

@@ -1,4 +1,4 @@
-export class Terminology {
+export interface Terminology {
   scopetag: string;
   scopedir: string;
   curatedir: string;

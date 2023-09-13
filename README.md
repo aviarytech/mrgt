@@ -2,8 +2,7 @@
 
 ## Overview
 
-The **Machine Readable Glossary Tool (MRGT)** generates a Machine Readable Glossary (MRG) for each of the versions of the terminology that are maintained with that scope by reading the SAF. There is more information about here:
-- [overview of the TEv2 tools](https://tno-terminology-design.github.io/tev2-specifications/docs/tev2-overview) of which the TRRT is a part.
+The **Machine Readable Glossary Tool (MRGT)** generates a Machine Readable Glossary (MRG) for each of the versions of the terminology that are maintained with that scope by reading the SAF. There is more information about the MRGT in the [overview of the TEv2 tools](https://tno-terminology-design.github.io/tev2-specifications/docs/tev2-overview) of which the MRGT is a part.
 
 ## Installation
 

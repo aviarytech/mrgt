@@ -1,6 +1,6 @@
-import { Term } from './Term';
+import { Term } from "./Term.js";
 
-export class MRGEntry extends Term {
+export interface MRGEntry extends Term {
   headingids: string[];
   locator: string;
   navurl: string;

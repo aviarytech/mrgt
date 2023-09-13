@@ -1,6 +1,6 @@
-import { Scope } from './Scope';
-import { ScopeRef } from './ScopeRef';
-import { Version } from './Version';
+import { Scope } from "./Scope.js";
+import { ScopeRef } from "./ScopeRef.js";
+import { Version } from "./Version.js";
 
 export interface SAFModel {
   scope: Scope;

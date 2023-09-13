@@ -1,4 +1,4 @@
-import { Email } from "./Email";
+import { Email } from "./Email.js";
 
 export class Curator {
   constructor(public name: string, public email: Email) {}

@@ -1,6 +1,6 @@
-import { Terminology } from './Terminology';
-import { ScopeRef } from './ScopeRef';
-import { MRGEntry } from './MRGEntry';
+import { Terminology } from "./Terminology.js";
+import { ScopeRef } from "./ScopeRef.js";
+import { MRGEntry } from "./MRGEntry.js";
 
 export interface MRGModel {
   terminology: Terminology;
